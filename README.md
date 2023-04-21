@@ -1,4 +1,4 @@
-# "Little project
+# Little project
 
 <!DOCTYPE html>
 <html lang="en">
